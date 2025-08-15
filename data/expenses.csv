@@ -1,0 +1,52 @@
+Date,Type,Category,Amount,Description
+2025-01-02,Expense,Bills,182.0,Electricity
+2025-01-02,Expense,Food,69.0,Cafe
+2025-01-06,Expense,Shopping,191.0,Clothes
+2025-01-09,Expense,Food,188.0,Cafe
+2025-01-09,Expense,Transport,124.0,Taxi
+2025-01-10,Expense,Bills,47.0,Internet
+2025-01-15,Expense,Bills,16.0,Internet
+2025-01-23,Expense,Health,53.0,Pharmacy
+2025-01-25,Expense,Health,12.0,Gym
+2025-01-28,Expense,Health,135.0,Pharmacy
+2025-02-01,Expense,Shopping,56.0,Clothes
+2025-02-13,Expense,Entertainment,175.0,Netflix
+2025-02-16,Expense,Shopping,66.0,Shoes
+2025-02-23,Expense,Transport,37.0,Train ticket
+2025-03-20,Expense,Transport,119.0,Taxi
+2025-03-29,Expense,Education,122.0,Workshop
+2025-03-01,Expense,Shopping,56.0,Clothes
+2025-03-13,Expense,Entertainment,175.0,Netflix
+2025-03-16,Expense,Shopping,66.0,Shoes
+2025-03-23,Expense,Transport,37.0,Train ticket
+2025-04-01,Expense,Education,145.0,Online course
+2025-04-02,Expense,Health,151.0,Doctor visit
+2025-04-07,Expense,Education,199.0,Books
+2025-04-15,Expense,Transport,161.0,Taxi
+2025-04-24,Expense,Food,147.0,Dinner
+2025-04-30,Expense,Health,27.0,Gym
+2025-05-07,Expense,Transport,177.0,Taxi
+2025-05-26,Expense,Health,26.0,Gym
+2025-05-27,Expense,Entertainment,115.0,Movie
+2025-06-12,Expense,Shopping,82.0,Clothes
+2025-06-13,Expense,Education,13.0,Online course
+2025-06-21,Expense,Bills,90.0,Electricity
+2025-06-21,Expense,Bills,186.0,Electricity
+2025-07-03,Expense,Shopping,34.0,Electronics
+2025-07-05,Expense,Health,57.0,Gym
+2025-07-08,Expense,Transport,8.0,Train ticket
+2025-07-10,Expense,Health,137.0,Gym
+2025-07-16,Expense,Health,140.0,Gym
+2025-07-16,Expense,Shopping,135.0,Shoes
+2025-07-17,Expense,Shopping,120.0,Clothes
+2025-07-17,Expense,Food,14.0,Dinner
+2025-07-19,Expense,Food,157.0,Dinner
+2025-07-23,Expense,Shopping,54.0,Clothes
+2025-07-24,Expense,Entertainment,75.0,Video games
+2025-07-24,Expense,Health,62.0,Pharmacy
+2025-07-29,Expense,Education,128.0,Books
+2025-07-31,Expense,Shopping,46.0,Clothes
+2025-08-12,Expense,Shopping,179.0,Electronics
+2025-08-14,Expense,Entertainment,156.0,Movie
+2025-08-19,Expense,Health,23.0,Pharmacy
+2025-08-15,Expense,Dinner,33.0,gf
